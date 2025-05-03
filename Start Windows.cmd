@@ -1,0 +1,1 @@
+.\files\dependants\windows\jdk-22\bin\java.exe -noverify -Xms4096m -XX:+DisableAttachMechanism -Xmx4g -Djava.library.path=files\dependants\windows\1.8.9-natives -cp files\Rise.jar Start

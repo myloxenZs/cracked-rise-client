@@ -1,0 +1,2 @@
+chmod +x files/dependants/macos_arm/jdk-22/Contents/Home/bin/java
+./files/dependants/macos_arm/jdk-22/Contents/Home/bin/java -noverify -Xms4096m -XX:+DisableAttachMechanism -Xmx4g -Djava.library.path=./files/dependants/macos_arm/1.8.9-natives-mac -cp ./files/Rise.jar Start
